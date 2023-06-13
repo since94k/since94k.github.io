@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 title                    : "The Great Library"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "in universe"
 name                     : "D"
-description              : "An amazing website."
+description              : "STAY HUNGRY STAY FOOLISH"
 url                      : "https://since94k.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "D"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Your time is limited So don't waste it living someone else's life."
-  location         : "Somewhere"
+  bio              : "어딘가에 속하기보다는 유일무이한 것이 좋습니다."
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
@@ -290,3 +290,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: ture
