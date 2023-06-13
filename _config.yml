@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "D"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "![D](/images/profile/D.jpeg)"
   bio              : "어딘가에 속하기보다는 유일무이한 것이 좋습니다."
   location         : "South Korea"
   email            :
